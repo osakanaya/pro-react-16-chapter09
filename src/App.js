@@ -5,7 +5,7 @@ import reactLogo from "./logo.svg";
 let name = "Adam";
 let city = "London";
 
-not a valid statement
+let error = "not a valid statement";
 
 export default class extends Component {
 
