@@ -5,7 +5,7 @@ import reactLogo from "./logo.svg";
 let name = "Adam";
 let city = "London";
 
-// eslint-disable-next-line no-unused-vars
+// eslint-disable-next-line
 let error = "not a valid statement";
 
 export default class extends Component {
