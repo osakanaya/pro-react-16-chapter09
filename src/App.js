@@ -12,6 +12,7 @@ export default class extends Component {
   }
 
   changeCity = () => {
+    debugger
     this.setState({
       city: this.state.city === "London" ? "New York" : "London"
     });
