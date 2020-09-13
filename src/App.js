@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 import React, { Component } from 'react';
 import "./App.css";
 import reactLogo from "./logo.svg";
@@ -5,7 +7,6 @@ import reactLogo from "./logo.svg";
 let name = "Adam";
 let city = "London";
 
-// eslint-disable-next-line
 let error = "not a valid statement";
 
 export default class extends Component {
